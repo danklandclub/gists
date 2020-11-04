@@ -45,7 +45,7 @@ bonus:
 ```
 ### Предметы:
 Вы должны писать предметы в таком формате:<br>
-\- ITEM_NAME STACK_SIZE x:CHANCE *другие параметры*
+\- ITEM_NAME CHANCE x:STACK_SIZE *другие параметры*
 - `ITEM_NAME` - название предмета в соответсвии с SpigotAPI, список вы можете найти **[здесь](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html)**
 - `STACK_SIZE` - количество предметов, генерируемых в одном слоте.
 - `CHANCE` - шанс выпадения предмета. По умолчанию 1
