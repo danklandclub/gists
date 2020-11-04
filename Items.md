@@ -38,7 +38,7 @@ items:
 - SPLASH_POTION potion:POISON:320:2 1
 - SPLASH_POTION potion:REGENERATION:660:1 1 x:2
 - APPLE 2 x:5
-# Бонусные сундуки(бочки, шалкер-боксы, сундуки-ловушки, стоят на спавне и в труднонаходимых местах)
+# Бонусные сундуки(бочки, шалкер-боксы, сундуки-ловушки, стоят на спавне и в труднодоступных местах)
 bonus:
 - DIAMOND_SWORD 1 enchant:sharpness:5 name:&3Power_Sword
 - DIAMOND_CHESTPLATE 1 enchant:protection:3 name:&aLife_Saver
